@@ -1,5 +1,6 @@
 #IMPORTACOES
 
+from turtle import color
 import streamlit as st
 import time 
 from PIL import Image
@@ -38,7 +39,7 @@ select = option_menu(
     styles={
         "container": {"border": "solid 1px rgba(160, 160, 160, 0.3)","padding": "0!important", "background-color": "#f4f4f4"},
         "icon": {"font-size": "0px"}, 
-        "nav-link": {"font-size": "16px", "text-align": "center", "margin":"0px", "--hover-color": "hotpink"},
+        "nav-link": {"font-size": "16px", "text-align": "center", "margin":"0px", "--hover-color": "#eee" , "color": "hotpink"},
         "nav-link-selected": {},
                 
     }
