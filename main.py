@@ -5,7 +5,7 @@ import streamlit as st
 import time 
 from PIL import Image
 from streamlit_option_menu import option_menu
-from views import cv
+from views import cv, apps, extras
 
 #CONFIGURACOES BASICAS DA PAGINA
 st.set_page_config(
@@ -59,7 +59,7 @@ if(select == "CV"):
     cv.cv()
 
 elif(select == "APPS"):
-    st.title("APPS")
+    apps.apps()
 
 elif(select == "EXTRAS"):
-    st.title("EXTRAS")  
+    extras.extras()  
