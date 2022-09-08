@@ -5,9 +5,9 @@ def cv():
     with st.container():        
         st.title("Curriculum Vitae")
         curriculo = """    
-        * * *
+        <hr>
         
-        ## ![pdf](https://img.icons8.com/ios/30/000000/pdf--v1.png) Jean Lucas Almeida Mota
+        ## Jean Lucas Almeida Mota
 
         ![Download](https://img.icons8.com/material-outlined/20/000000/downloading-updates.png) Download da versão em pdf [aqui](https://drive.google.com/file/d/15h2VtB7J8FaxceLiHX4x3pFUCY3K1zth/view?usp=sharing)
         * ![Data Nascimento](https://img.icons8.com/ios-filled/18/000000/birthday.png) 12/06/1997
