@@ -80,7 +80,8 @@ h2 {
 }
 
 /*Texto do menu lateral*/
-.css-1ope8sv.e1fqkh3o4 p{    
+.css-1ope8sv.e1fqkh3o4 p{
+    color: #333333;    
     text-align: center;
     font-size: 0.8em;
     opacity: 0.6;
