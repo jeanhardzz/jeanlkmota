@@ -128,8 +128,15 @@ def cv():
 
         ## ![pdf](https://img.icons8.com/ios/25/000000/new-job.png) Certificados
 
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical.
-        
+        Alura:
+
+        - [Git e Github: Controle e Compartilhe seu Código](https://drive.google.com/file/d/1mBd0o4ZXunB7zTOZWPIRC2KTn5b7JPPm/view?usp=sharing)
+        - [Python: Começando com a Linguagem](https://drive.google.com/file/d/1a1zffG3eT6_iN--iICzp6ERA9x8UUBtO/view?usp=sharing)
+        - [Python: Avançando na Linguagem](https://drive.google.com/file/d/1W8yOsrrPnDBSqZ8ore_6qnPPdOSzU2kW/view?usp=sharing)
+        - [Python: Entendendo a Orientação a Objetos](https://drive.google.com/file/d/1DN8M9qMRc-laWl8cMd-95oZTgnPoFsP5/view?usp=sharing)
+        - [Python: Avançando na Orientação a Objetos](https://drive.google.com/file/d/1PbgM7h14JodOw65JVnd0PW61LCRhjNaJ/view?usp=sharing)
+        - [Teste Automatizados: TDD com Python](https://drive.google.com/file/d/1gq4SNiOhwPJG1Wka9iZ2QR-3MgOWnNzX/view?usp=sharing)
+        - [Data Science: Analise e Visualização de Dados](https://drive.google.com/file/d/1-yDS_F0N7MQ2bGRI72gP_HW2KZ-x7FtE/view?usp=sharing)
         * * *
         """
         st.markdown(curriculo,unsafe_allow_html= True)        

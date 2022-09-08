@@ -1,5 +1,6 @@
 #IMPORTACOES
 
+from select import select
 import streamlit as st
 import time 
 from PIL import Image
@@ -30,20 +31,22 @@ def navigation():
 #usar no futuro "border": "solid 1px rgba(160, 160, 160, 0.3)","         
         
         
-select = option_menu(
-    menu_title="",
-    options=["CV","APPS","EXTRAS"],
-    default_index=0,    
-    orientation="horizontal",
-    styles={
-        "container": {"border": "solid 1px rgba(160, 160, 160, 0.3)","padding": "0!important", "background-color": "#f4f4f4"},
-        "icon": {"font-size": "0px"}, 
-        "nav-link": {"font-size": "16px", "text-align": "center", "margin":"0px", "--hover-color": "#eee"},
-        "nav-link-selected": {},
-                
-    }
-    
-)
+#select = option_menu(
+#    menu_title="",
+#    options=["CV","APPS","EXTRAS"],
+#    default_index=0,    
+#    orientation="horizontal",
+#    styles={
+#        "container": {"border": "solid 1px rgba(160, 160, 160, 0.3)","padding": "0!important", "background-color": "#f4f4f4"},
+#        "icon": {"font-size": "0px"}, 
+#        "nav-link": {"font-size": "16px", "text-align": "center", "margin":"0px", "--hover-color": "#eee"},
+#        "nav-link-selected": {},
+#                
+#    }
+#    
+#)
+
+select = "CV"
 
 
 #MENU LATERAL
