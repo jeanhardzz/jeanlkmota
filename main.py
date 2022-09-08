@@ -5,7 +5,7 @@ import streamlit as st
 import time 
 from PIL import Image
 from streamlit_option_menu import option_menu
-from views import cv
+from views import cv,navbar
 
 #CONFIGURACOES BASICAS DA PAGINA
 st.set_page_config(
@@ -26,9 +26,6 @@ def navigation():
         return None
     return path
 
-
-#NAVBAR
-#usar no futuro "border": "solid 1px rgba(160, 160, 160, 0.3)","         
         
         
 #select = option_menu(
@@ -46,9 +43,6 @@ def navigation():
 #    
 #)
 
-select = "CV"
-
-
 #MENU LATERAL
 with st.sidebar:
     """    
@@ -65,14 +59,7 @@ with st.sidebar:
 
     """
 
-    #html = "<h1>Meu Perfil</h1>"
-    #st.markdown(html,unsafe_allow_html=True)
-    
-if(select == "CV"):
-    cv.cv()
+#NAVBAR
+#navbar.navbar()
 
-elif(select == "APPS"):
-    st.title("APPS")
-
-elif(select == "EXTRAS"):
-    st.title("EXTRAS")    
+cv.cv()  
