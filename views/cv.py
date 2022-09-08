@@ -5,6 +5,7 @@ def cv():
     with st.container():        
         st.title("Curriculum Vitae")
         curriculo = """    
+        
         <hr>
         
         ## Jean Lucas Almeida Mota

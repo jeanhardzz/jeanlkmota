@@ -7,6 +7,9 @@ h1, h2, h3, h4, h5, h6{
     opacity: 0.87;      
 }
 
+hr {
+    background: hotpink;
+}
 
 h2 {
     color: #3c3b3b;
