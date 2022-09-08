@@ -10,7 +10,7 @@ def cv():
         
         ## Jean Lucas Almeida Mota
 
-        ![Download](https://img.icons8.com/material-outlined/20/000000/downloading-updates.png) Download da versão em pdf [aqui](https://drive.google.com/file/d/15h2VtB7J8FaxceLiHX4x3pFUCY3K1zth/view?usp=sharing)
+        ![Download](https://img.icons8.com/material-outlined/20/000000/downloading-updates.png) Download da versão em pdf [aqui](https://drive.google.com/file/d/1d6CeSN15PHRylLlAEU92ea2TH3ymlhkD/view?usp=sharing)
         * ![Data Nascimento](https://img.icons8.com/ios-filled/18/000000/birthday.png) 12/06/1997
         * ![Whatsapp](https://img.icons8.com/material-outlined/20/000000/whatsapp--v1.png) (31) 99468-8276
         * ![Linkedin](https://img.icons8.com/ios-glyphs/20/000000/linkedin-2--v1.png) [linkedin.com/in/jeanlkmota](https://www.linkedin.com/in/jeanlkmota/)
