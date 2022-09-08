@@ -1,6 +1,3 @@
-body{
-    color: #333333;
-}
 
 h1, h2, h3, h4, h5, h6{
     color: #333333;    
@@ -46,7 +43,7 @@ h2 {
 }
 
 /*Conteiner princial do curriculo*/
-.block-container.css-12oz5g7.egzxvld2 {
+.css-biip1c.e1tzin5v0 {
     padding: 3em 3em 1em 3em;
     background: #ffffff;
     border: solid 1px rgba(160, 160, 160, 0.3);
@@ -96,8 +93,7 @@ h2 {
 }
 
 /*texto do conteiner princial*/
-.block-container.css-12oz5g7.egzxvld2 {
-    color: #333333;    
+.block-container.css-12oz5g7.egzxvld2 {       
     opacity: 0.87;
     padding-top: 0.5em;
 
@@ -159,6 +155,7 @@ h2 {
     visibility: hidden;
 }
 
+/* navbar q deu errado
 .head {
     display: flex;      
     background-color: #ffffff;
@@ -194,3 +191,4 @@ h2 {
 .clearBoth { 
     clear:both; 
 }
+*/
