@@ -11,14 +11,22 @@ def cv():
         ## Jean Lucas Almeida Mota
 
         ![Download](https://img.icons8.com/material-outlined/20/000000/downloading-updates.png) Download da versão em pdf [aqui](https://drive.google.com/file/d/1d6CeSN15PHRylLlAEU92ea2TH3ymlhkD/view?usp=sharing)
-        * ![Data Nascimento](https://img.icons8.com/ios-filled/18/000000/birthday.png) 12/06/1997
-        * ![Whatsapp](https://img.icons8.com/material-outlined/20/000000/whatsapp--v1.png) (31) 99468-8276
-        * ![Linkedin](https://img.icons8.com/ios-glyphs/20/000000/linkedin-2--v1.png) [linkedin.com/in/jeanlkmota](https://www.linkedin.com/in/jeanlkmota/)
-        * ![Github](https://img.icons8.com/ios-glyphs/20/000000/github.png) [github.com/jeanhardzz](https://github.com/jeanhardzz)                   
-        * ![Email](https://img.icons8.com/ios-filled/20/000000/gmail.png) [jeanlkmota@gmail.com](mailto:jeanlkmota@gmail.com)               
-        * ![Instagram](https://img.icons8.com/ios-glyphs/20/000000/instagram-new.png) [instagram.com/jean.lk/](https://www.instagram.com/jean.lk/)               
-        * ![Codeforces](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-bold-tal-revivo.png) [codeforces.com/profile/jeanhardzz](https://codeforces.com/profile/jeanhardzz)              
-        * ![Twitter](https://img.icons8.com/ios-glyphs/20/000000/twitter--v1.png) [twitter.com/Jean_lucks](https://twitter.com/Jean_lucks)              
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Data Nascimento](https://img.icons8.com/ios-filled/18/000000/birthday.png) 12/06/1997
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Whatsapp](https://img.icons8.com/material-outlined/20/000000/whatsapp--v1.png) (31) 99468-8276
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Linkedin](https://img.icons8.com/ios-glyphs/20/000000/linkedin-2--v1.png) [linkedin.com/in/jeanlkmota](https://www.linkedin.com/in/jeanlkmota/)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Github](https://img.icons8.com/ios-glyphs/20/000000/github.png) [github.com/jeanhardzz](https://github.com/jeanhardzz)                   
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Email](https://img.icons8.com/ios-filled/20/000000/gmail.png) [jeanlkmota@gmail.com](mailto:jeanlkmota@gmail.com)               
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Instagram](https://img.icons8.com/ios-glyphs/20/000000/instagram-new.png) [instagram.com/jean.lk/](https://www.instagram.com/jean.lk/)               
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Codeforces](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/20/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-bold-tal-revivo.png) [codeforces.com/profile/jeanhardzz](https://codeforces.com/profile/jeanhardzz)              
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp;![Twitter](https://img.icons8.com/ios-glyphs/20/000000/twitter--v1.png) [twitter.com/Jean_lucks](https://twitter.com/Jean_lucks)              
         
         * * *
 
