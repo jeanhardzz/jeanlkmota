@@ -152,7 +152,21 @@ h2 {
 }
 
 
+/*menu lateral padrao*/
+.css-14xtw13.e8zbici0 {
+    visibility: hidden;
+}
 
+/*header padrao*/
+.css-18ni7ap {    
+    visibility: hidden;
+}
+#stHeader {
+    visibility: hidden;
+}
+.css-1avcm0n {
+    visibility: hidden;
+}
 
 /*Texto APPS*/
 #stExpander{
