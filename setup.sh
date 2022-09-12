@@ -8,7 +8,7 @@ echo "\
 port = $PORT\n\
 enableCORS = false\n\
 headless = true\n\
-base=\"light\"\n\
-primaryColor=\"purple\"\n\
+base = \"light\"\n\
+primaryColor = \"purple\"\n\
 \n\
 " > ~/.streamlit/config.toml
