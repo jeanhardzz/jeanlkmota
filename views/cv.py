@@ -130,8 +130,9 @@ def cv():
 
         ## ![pdf](https://img.icons8.com/glyph-neue/30/000000/university.png) Formação Acadêmica    
 
-        - Curso de graduação em Matemática Computacional - conclusão em 2023/2 - UFMG - Universidade Federal de Minas Gerais
-        - Técnico em tecnologia da informação - concluído em 2014 - Sistema FIEMG - Federação das Indústrias do Estado de Minas Gerais
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; Curso de graduação em Matemática Computacional - conclusão em 2023/2 - UFMG - Universidade Federal de Minas Gerais
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; Técnico em tecnologia da informação - concluído em 2014 - Sistema FIEMG - Federação das Indústrias do Estado de Minas Gerais
       
         * * *
 
@@ -139,13 +140,20 @@ def cv():
 
         Alura:
 
-        - [Git e Github: Controle e Compartilhe seu Código](https://drive.google.com/file/d/1mBd0o4ZXunB7zTOZWPIRC2KTn5b7JPPm/view?usp=sharing)
-        - [Python: Começando com a Linguagem](https://drive.google.com/file/d/1a1zffG3eT6_iN--iICzp6ERA9x8UUBtO/view?usp=sharing)
-        - [Python: Avançando na Linguagem](https://drive.google.com/file/d/1W8yOsrrPnDBSqZ8ore_6qnPPdOSzU2kW/view?usp=sharing)
-        - [Python: Entendendo a Orientação a Objetos](https://drive.google.com/file/d/1DN8M9qMRc-laWl8cMd-95oZTgnPoFsP5/view?usp=sharing)
-        - [Python: Avançando na Orientação a Objetos](https://drive.google.com/file/d/1PbgM7h14JodOw65JVnd0PW61LCRhjNaJ/view?usp=sharing)
-        - [Teste Automatizados: TDD com Python](https://drive.google.com/file/d/1gq4SNiOhwPJG1Wka9iZ2QR-3MgOWnNzX/view?usp=sharing)
-        - [Data Science: Analise e Visualização de Dados](https://drive.google.com/file/d/1-yDS_F0N7MQ2bGRI72gP_HW2KZ-x7FtE/view?usp=sharing)
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Git e Github: Controle e Compartilhe seu Código](https://drive.google.com/file/d/1mBd0o4ZXunB7zTOZWPIRC2KTn5b7JPPm/view?usp=sharing)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Python: Começando com a Linguagem](https://drive.google.com/file/d/1a1zffG3eT6_iN--iICzp6ERA9x8UUBtO/view?usp=sharing)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Python: Avançando na Linguagem](https://drive.google.com/file/d/1W8yOsrrPnDBSqZ8ore_6qnPPdOSzU2kW/view?usp=sharing)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Python: Entendendo a Orientação a Objetos](https://drive.google.com/file/d/1DN8M9qMRc-laWl8cMd-95oZTgnPoFsP5/view?usp=sharing)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Python: Avançando na Orientação a Objetos](https://drive.google.com/file/d/1PbgM7h14JodOw65JVnd0PW61LCRhjNaJ/view?usp=sharing)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Teste Automatizados: TDD com Python](https://drive.google.com/file/d/1gq4SNiOhwPJG1Wka9iZ2QR-3MgOWnNzX/view?usp=sharing)
+        
+        &nbsp;&nbsp;&nbsp;&nbsp;![dot](https://img.icons8.com/fluency-systems-filled/7/000000/circled-dot.png)&nbsp;&nbsp; [Data Science: Analise e Visualização de Dados](https://drive.google.com/file/d/1-yDS_F0N7MQ2bGRI72gP_HW2KZ-x7FtE/view?usp=sharing)
+
         * * *
         """
         st.markdown(curriculo,unsafe_allow_html= True)        
