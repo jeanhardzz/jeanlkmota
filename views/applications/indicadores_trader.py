@@ -2,8 +2,7 @@ import streamlit as st
 from PIL import Image
 import pandas as pd
 
-def indicadores():    
-    st.title("Indicadores")    
+def indicadores():            
     texto = """
     #### Cálculo de indicadores 
     Este projeto possui o intuito de calcular as médias móveis, médias móveis exponenciais e índice de força relativa usando o histórico de preços do bitcoin. Bem como visualizar esses dados em um gráfico. 
@@ -184,6 +183,12 @@ def indicadores():
         plt.show()
 
     ![img](https://github.com/jeanhardzz/imagens_uteis/blob/main/img7.png?raw=true)        
-    """
+    """        
+
     st.markdown(texto,unsafe_allow_html= True)
+    a = 2
+    b = 3 
+    st.write(a+b)
+
+       
     

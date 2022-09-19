@@ -4,6 +4,7 @@ def cv():
     #CURRICULUM VITAE
     with st.container():        
         st.title("Curriculum Vitae")
+
         curriculo = """    
         
         <hr>

@@ -7,7 +7,7 @@ def apps():
     #APPS                                          
         
     painel = st.empty()
-
+    select = 0
     with painel.container():
         st.title("APPS")
         with st.expander("📈Indicadores para Investimentos"):
@@ -17,11 +17,14 @@ def apps():
             st.markdown(text_app,unsafe_allow_html= True) 
             image = Image.open('./images/bitcoin.png')
             st.image(image,width=200)            
-            if st.button("Veja"):                
-                with painel.empty():                    
-                    indicadores_trader.indicadores()                                     
+            if st.button("Veja"): 
+                select = 1                                     
                  
-    
+    if select == 1: #Indicadores        
+        painel.empty()                              
+        with painel.container():                    
+            indicadores_trader.indicadores()
+
         
    
 
