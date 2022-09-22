@@ -6,7 +6,6 @@ from views.applications import indicadores_trader,retas
 # Pages logic 
 
 
-if 'page_apps' not in st.session_state: st.session_state.page_apps = 0
 def restart(): st.session_state.page_apps = 0
 def page_ind(): st.session_state.page_apps = 1
 def page_retas(): st.session_state.page_apps = 2    

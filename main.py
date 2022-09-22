@@ -6,6 +6,8 @@ from PIL import Image
 from streamlit_option_menu import option_menu
 from views import cv, apps, extras
 
+if 'page_retas' not in st.session_state: st.session_state.page_retas = 0
+if 'page_apps' not in st.session_state: st.session_state.page_apps = 0
 
 #CONFIGURACOES BASICAS DA PAGINA
 st.set_page_config(
