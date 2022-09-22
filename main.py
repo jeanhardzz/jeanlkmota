@@ -58,7 +58,7 @@ with st.sidebar:
 if(select == "CV"):
     cv.cv()
 
-elif(select == "APPS"):
+elif(select == "APPS"):    
     apps.apps()
 
 elif(select == "EXTRAS"):

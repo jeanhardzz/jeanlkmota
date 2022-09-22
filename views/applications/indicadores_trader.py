@@ -185,10 +185,7 @@ def indicadores():
     ![img](https://github.com/jeanhardzz/imagens_uteis/blob/main/img7.png?raw=true)        
     """        
 
-    st.markdown(texto,unsafe_allow_html= True)
-    a = 2
-    b = 3 
-    st.write(a+b)
+    st.markdown(texto,unsafe_allow_html= True)   
 
        
     
