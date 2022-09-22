@@ -4,7 +4,7 @@ import mpld3
 import streamlit.components.v1 as components
 from views.applications import any_segments_intersect
 
-
+if 'page_retas' not in st.session_state: st.session_state.page_retas = 0
 def restart(): st.session_state.page_retas = 0
 def new_retas(): st.session_state.page_retas = 1
 

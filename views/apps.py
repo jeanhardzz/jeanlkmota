@@ -5,7 +5,7 @@ from PIL import Image
 from views.applications import indicadores_trader,retas
 # Pages logic 
 
-if 'page_retas' not in st.session_state: st.session_state.page_retas = 0
+
 if 'page_apps' not in st.session_state: st.session_state.page_apps = 0
 def restart(): st.session_state.page_apps = 0
 def page_ind(): st.session_state.page_apps = 1
