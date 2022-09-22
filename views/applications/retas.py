@@ -12,7 +12,7 @@ def retas():
     
     texto = """
         #### Interceções com Algoritmos Geométricos 
-        Este projeto possui o intuito de aprender um pouco mais sobre a geometria computacional. Aqui foi implementado o algoritmo visto em Algoritmos Teoria e Pratica - Thomas H. Cormen.
+        Este projeto possui o intuito de aprender um pouco mais sobre a geometria computacional. Aqui foi proposto e implementado um algoritmo que, dado um conjunto de retas, encontra interceções em O(nlogn).
 
         * * * 
         #### Visualização 
